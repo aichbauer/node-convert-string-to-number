@@ -4,7 +4,7 @@
 [![Travis branch](https://img.shields.io/travis/aichbauer/node-convert-string-to-number/master.svg?style=flat-square)](https://travis-ci.org/aichbauer/node-convert-string-to-number)
 [![Codecov branch](https://img.shields.io/codecov/c/github/aichbauer/node-convert-string-to-number/master.svg?style=flat-square)](https://codecov.io/gh/aichbauer/node-convert-string-to-number)
 
-> Convert an array to a csv format
+> Convert a string to its numerical value (float or integer)
 
 ## Table of Contents
 
