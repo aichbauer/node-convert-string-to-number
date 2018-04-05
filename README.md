@@ -45,9 +45,7 @@ This function converts a string to its numerical value (float, int, or NaN).
 Returns a number or NaN.
 
 ```js
-const int = convertStringToNumber('2'); // => 2
-const float = convertStringToNumber('2.2'); // => 2.2
-const notANumber = convertStringToNumber('franz'); // => NaN
+const number = convertStringToNumber(value);
 ```
 
 ##### Parameters
