@@ -1,6 +1,6 @@
 {
   "name": "convert-string-to-number",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a string to its numerical value (float or integer)",
   "main": "./lib/index.js",
   "repository": "https://www.github.com/aichbauer/node-convert-string-to-number",
