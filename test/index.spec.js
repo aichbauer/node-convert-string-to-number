@@ -1,4 +1,4 @@
-import converter, { convertStringToNumber } from '../lib';
+import converter, { convertStringToNumber } from '../src';
 
 test('default export | convert string "2" to integer 2', () => {
   const input = '2';
